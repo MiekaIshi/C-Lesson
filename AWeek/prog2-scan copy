@@ -1,0 +1,7 @@
+void main{
+    int a ,b :
+    Scanf(&a);
+    printf("a = %d" a);
+    Scanf(&b):
+    printf("b = %d" b);
+}
